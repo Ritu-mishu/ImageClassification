@@ -1,1 +1,1 @@
-# ImageSegragation
+# ImageSegregation
